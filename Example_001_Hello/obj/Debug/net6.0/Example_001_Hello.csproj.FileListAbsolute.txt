@@ -1,0 +1,15 @@
+C:\Users\ThorMedia\Desktop\C#_L1\Example_001_Hello\bin\Debug\net6.0\Example_001_Hello.exe
+C:\Users\ThorMedia\Desktop\C#_L1\Example_001_Hello\bin\Debug\net6.0\Example_001_Hello.deps.json
+C:\Users\ThorMedia\Desktop\C#_L1\Example_001_Hello\bin\Debug\net6.0\Example_001_Hello.runtimeconfig.json
+C:\Users\ThorMedia\Desktop\C#_L1\Example_001_Hello\bin\Debug\net6.0\Example_001_Hello.dll
+C:\Users\ThorMedia\Desktop\C#_L1\Example_001_Hello\bin\Debug\net6.0\Example_001_Hello.pdb
+C:\Users\ThorMedia\Desktop\C#_L1\Example_001_Hello\obj\Debug\net6.0\Example_001_Hello.csproj.AssemblyReference.cache
+C:\Users\ThorMedia\Desktop\C#_L1\Example_001_Hello\obj\Debug\net6.0\Example_001_Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThorMedia\Desktop\C#_L1\Example_001_Hello\obj\Debug\net6.0\Example_001_Hello.AssemblyInfoInputs.cache
+C:\Users\ThorMedia\Desktop\C#_L1\Example_001_Hello\obj\Debug\net6.0\Example_001_Hello.AssemblyInfo.cs
+C:\Users\ThorMedia\Desktop\C#_L1\Example_001_Hello\obj\Debug\net6.0\Example_001_Hello.csproj.CoreCompileInputs.cache
+C:\Users\ThorMedia\Desktop\C#_L1\Example_001_Hello\obj\Debug\net6.0\Example_001_Hello.dll
+C:\Users\ThorMedia\Desktop\C#_L1\Example_001_Hello\obj\Debug\net6.0\refint\Example_001_Hello.dll
+C:\Users\ThorMedia\Desktop\C#_L1\Example_001_Hello\obj\Debug\net6.0\Example_001_Hello.pdb
+C:\Users\ThorMedia\Desktop\C#_L1\Example_001_Hello\obj\Debug\net6.0\Example_001_Hello.genruntimeconfig.cache
+C:\Users\ThorMedia\Desktop\C#_L1\Example_001_Hello\obj\Debug\net6.0\ref\Example_001_Hello.dll
